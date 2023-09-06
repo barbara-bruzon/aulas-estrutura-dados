@@ -1,4 +1,4 @@
-# Programação WEB
+# Estrutura de Dados
 Repositório criado para guardar os códigos desenvolvidos durante as aulas de Estrutura de Dados durante o 4º semestre do curso de Análise e Desenvolvimento de Sistemas na Fatec Indaiatuba
 
 ## Aula 01 - (12.08.2023)
