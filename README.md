@@ -16,16 +16,10 @@ int main() {
 }
 ```
 
-***
-
 ## Aula 02 - (19.08.2023)
 Continuação da aula anterior, ou seja, dedicada a retormar conceitos base de C++. Dessa vez, o foco foram estruturas de repetição e seleção, como while, for e switch case.
 
-***
-
 ## Aula 03 - Atividade avaliativa (26.08.2023)
 Primeira atividade avaliativa da disciplina. Foi disponibilizado um PDF com 21 exercícios de diversos níveis de dificuldade, mas era necessário escolher apenas cinco deles para entregar. Apenas fui fazendo os exerícios em ordem.
-
-***
 
 ## Aula 04 - (02.09.2023)
