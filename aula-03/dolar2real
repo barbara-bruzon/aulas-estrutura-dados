@@ -1,0 +1,17 @@
+/*Estrutura de Dados: Exercício 09 - Dólar2Reais - 26.08.2023
+Enunciado 09. Fazer um algoritmo que receba um valor em dólar e transforme o mesmo em reais, sabendo que a taxa de conversão é: 1 dólar = R$2.30.*/
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
+int main(){
+	setlocale(LC_ALL, "Portuguese");
+	float valor;
+	
+	printf("Insira o valor em dólares: ");
+	scanf("%f", &valor);
+	
+	printf("\nConversão...\n$%.2f = R$%.2f", valor, valor*2.3);
+	return 0;
+}
