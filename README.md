@@ -15,7 +15,7 @@ int main() {
   setlocale(LC_ALL, "Portuguese");
 }
 ```
-
+***
 ## Aula 02 - (19.08.2023)
 Continuação da aula anterior, ou seja, dedicada a retormar conceitos base de C++. Dessa vez, o foco foram estruturas de repetição e seleção, como while, for e switch case.
 
