@@ -8,7 +8,7 @@ Esse repositório foi criado com o objetivo de armazenar os códigos que desenvo
 ### Aula 01 - Relembrando conceitos (12.08.2023)
 Aula dedicada a revisar conceitos e estruturas básicos da linguagem de programação C+, como manipulação de variáveis e if else.
 
-Uma das minhas "dificuldades" com C++ era a incompatibilidade com os caracteres específicos da língua portuguesa. Porém, é possível usar uma biblioteca para importá-los.
+Uma das minhas "dificuldades" com C++ era a incompatibilidade com os caracteres específicos da língua portuguesa. Porém é possível usar uma biblioteca para importá-los:
 ```cpp
 #include <locale.h>
 int main() {
